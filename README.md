@@ -6,6 +6,6 @@ What you will see is the C# code for the program of the final assignment. Any fu
 
 Next Stages of the Program
 ---------------------------
-1. ADD a MySQL Database as the backend of the program. 
+1. ADD a MySQL Database as the backend of the program. This will include SQL queries and Stored Procedures. 
 2. ADD either an Angular.js or REACT.js Front End to communicate with the REST API.
 
